@@ -1,0 +1,82 @@
+.navbar{
+    background-color: #c5dbed !important;
+}
+
+.nav-link{
+    color: #0b385c !important;
+}
+
+.card{
+    border: none;
+    background-color: #c5dbed;
+}
+
+.card-title{
+    font-size: 50px !important;
+}
+.col-6 img{
+    position: relative;left: 21rem;
+    overflow-x: hidden;
+}
+
+.container-fluid{
+    background-image: url("/app/assets/bg.png");
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+.sco{
+    position: relative;
+    left: 15rem;
+}
+
+.card-img-top{
+    position: relative;
+    top: -6rem;
+}
+
+.title{
+    color: #f6a87e;
+}
+
+.fhj{
+    color: #0b385c !important;
+}
+
+.glo{
+    background-color: #0b385c;
+    color: #f6a87e !important;
+    height: 8px !important;
+}
+
+.container-fluid-1{
+    background-color: #eaf6ff;
+    overflow-x: hidden;
+    height: 800px;
+    overflow-y: hidden;
+}
+
+.container-fluid-2{
+    color: #0b385c;
+    height: 500px;
+    /* overflow-x: hidden; */
+    background-image: url("/app/assets/bg1.png");
+}
+
+.nyongsie{
+    position: relative;
+    bottom: -5rem;
+}
+
+.mbweha{
+    color: #0b385c;
+    font-weight: 600;
+}
+
+.container-fluid-4{
+    height: 350px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #f6b694 !important;
+    
+}
